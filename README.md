@@ -3,8 +3,6 @@
 
 如果为您的学习提供了帮助，欢迎给一个Star ^_^
 
-
-
 * 部署方法
    https://github.com/onplus/v2hero/wiki/Deploy-V2ray-To-Heroku
 
